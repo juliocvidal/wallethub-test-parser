@@ -1,1 +1,0 @@
-# wallethub-test-parser
